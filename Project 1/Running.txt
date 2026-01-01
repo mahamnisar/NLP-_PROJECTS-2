@@ -1,0 +1,17 @@
+ D:\Projects\TUF_University\NLP\venv\Scripts\Activate
+ D:\Projects\TUF_University\NLP\venv\Scripts\Activate.ps1
+
+Install the required libraries and execute the code 
+A direct exe file has also been made for convinience 
+go to dist and run the Text preprocesing app
+Thanks for using my app 
+
+
+pyinstaller --clean --onefile --windowed --hidden-import sklearn --hidden-import sklearn.utils._heapq project_front_end-2.py
+
+D:\Projects\TUF_University\NLP\venv\Scripts\python.exe -m pip install pyinstaller
+D:\Projects\TUF_University\NLP\venv\Scripts\python.exe -m PyInstaller --onefile --windowed project_front_end-2.py
+
+
+licensed and made by: Waleed Amjad
+
